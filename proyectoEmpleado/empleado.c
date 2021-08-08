@@ -1,11 +1,5 @@
 #include "empleado.h"
 
-/*typedef struct{
-	char *nombre;
-	char *apellidos;
-	float sueldoAnual;
-}Empleado;
-*/
 
 Empleado vendedor;
 
